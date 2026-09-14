@@ -4,7 +4,7 @@ An interactive **HR Analytics Dashboard** built using **MySQL** for data analysi
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](Dashboard.png)
 
 ---
 
