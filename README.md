@@ -1,20 +1,14 @@
 # HR Employee Attrition Analytics | MySQL + Tableau
 
 An interactive **HR Analytics Dashboard** built using **MySQL** for data analysis and **Tableau** for visualization. This project analyzes employee attrition, salary distribution, job satisfaction, overtime impact, and workforce demographics to generate actionable business insights.
-
-> **Tech Stack:** MySQL • SQL • Tableau
-
 ---
 
 ## 📊 Dashboard Preview
-
-> Add your dashboard screenshot here as `dashboard.png`
-
 ![Dashboard Preview](dashboard.png)
 
 ---
 
-## 🚀 Features
+## Features
 
 * **5 KPI Cards**
 
@@ -31,7 +25,7 @@ An interactive **HR Analytics Dashboard** built using **MySQL** for data analysi
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Tool        | Purpose                               |
 | ----------- | ------------------------------------- |
@@ -41,7 +35,7 @@ An interactive **HR Analytics Dashboard** built using **MySQL** for data analysi
 
 ---
 
-## 📈 Key Business Insights
+## Key Business Insights
 
 * **1,470** total employees analyzed
 * **237** employees left the company
@@ -51,7 +45,7 @@ An interactive **HR Analytics Dashboard** built using **MySQL** for data analysi
 
 ---
 
-## 🧠 SQL Concepts Used
+## SQL Concepts Used
 
 * `SELECT`, `WHERE`, `ORDER BY`
 * `GROUP BY` & `HAVING`
@@ -63,30 +57,7 @@ An interactive **HR Analytics Dashboard** built using **MySQL** for data analysi
 
 ---
 
-## 📂 Project Structure
-
-```text
-HR-Employee-Attrition-Analytics/
-│
-├── Dataset/
-│   └── hr_employee_attrition.csv
-│
-├── SQL/
-│   └── HR_Analytics_SQL.sql
-│
-├── Tableau/
-│   └── HR_Analytics_Dashboard.twbx
-│
-├── Images/
-│   └── dashboard.png
-│
-└── README.md
-```
-
----
-
-## 📊 Dashboard KPIs
-
+## Dashboard KPIs
 | KPI             |      Value |
 | --------------- | ---------: |
 | Total Employees |  **1,470** |
@@ -96,18 +67,12 @@ HR-Employee-Attrition-Analytics/
 
 ---
 
-## 🎯 Project Objective
-
+## Project Objective
 The objective of this project is to identify the key factors influencing employee attrition and present meaningful HR insights through an interactive Tableau dashboard. The analysis helps understand workforce demographics, overtime impact, salary distribution, and job satisfaction.
 
 ---
 
-## 👨‍💻 Author
-
+## Author
 **Vedant Patil**
-
 Aspiring Data Analyst | AIML Student
 
----
-
-### ⭐ If you like this project, consider giving it a Star!
